@@ -1,0 +1,19 @@
+{
+  "name": "ops-dummy-test-repo",
+  "version": "0.0.0",
+  "description": "Dummy tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holepunchto/ops-dummy-test-repo.git"
+  },
+  "author": "Holepunch",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/ops-dummy-test-repo/issues"
+  },
+  "homepage": "https://github.com/holepunchto/ops-dummy-test-repo#readme"
+}
