@@ -1,6 +1,6 @@
 {
   "name": "ops-dummy-test-repo",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dummy tests",
   "main": "index.js",
   "scripts": {
